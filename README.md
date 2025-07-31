@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Linux**
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-website-beige-ten.vercel.app/](https://my-portfolio-website-beige-ten.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://devanasportfoliox.vercel.app/](https://devanasportfoliox.vercel.app/)
 
 - 💬 Ask me about **REACT , JAVASCRIPT , EXPRESSJS**
 
